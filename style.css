@@ -1,0 +1,55 @@
+.nav-link img {
+    max-width: 100%;
+  }
+
+  @media (max-width: 768px) {
+    .nav-link img {
+      max-width: 50%;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .nav-link img {
+      height: 0;
+    }
+
+    .newnew {
+      max-width: 80%;
+    }
+  }
+
+  .nav-link img {
+    margin-right: 40px;
+  }
+
+  .nav-link {
+    color: black;
+  }
+
+
+  .background {
+    background-image: url('assets/MainBuildingnew.jpg');
+    height: 100vh; 
+    background-position: center;
+    background-size: cover;
+}
+
+.new01 {
+    background-color: rgb(33, 167, 208);
+
+}
+
+svg:hover {
+  color: #0078ff;
+  transition: all 0.5s ease-in-out;
+}
+
+.colourtext {
+    color: aliceblue;
+}
+  
+.wxyz {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
